@@ -1,6 +1,6 @@
 {
   "files": [
-    "app/test.ts",
+    "app/app.ts",
     "typings/index.d.ts"
   ],
   "compilerOptions": {

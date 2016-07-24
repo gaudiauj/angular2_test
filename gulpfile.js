@@ -11,7 +11,7 @@ var pump = require('pump');
 var connect = require('gulp-connect');
 var paths = {
     html: ['app/*.html'],
-    ts: ['app/test.ts']
+    ts: ['app/app.ts']
 };
 
 var myBrowserify = browserify({
